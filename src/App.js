@@ -8,6 +8,10 @@ import Nav from './Components/Nav/Nav';
 
 import './App.css';
 
+
+/**
+ * @component App,
+ */
 function App() {
 
     /*states */
