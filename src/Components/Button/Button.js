@@ -2,6 +2,11 @@ import React from 'react';
 
 import './Button.css';
 
+
+/**
+ * @component Button,
+ * @param {fetchCity} param0,  props for handling submit function
+ */
 function Button({fetchCity}) {
 
 
