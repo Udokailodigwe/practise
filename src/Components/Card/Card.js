@@ -8,9 +8,8 @@ import './Card.css';
 
 /**
  * @component Card,
- * @param {cityData} param0,  
- * @param {error} param1, 
- * @returns 
+ * @param {cityData} param0,  props containing city data and location key
+ * @param {error} param1,  error information
  */
 function Card({cityData, error}) {
 
