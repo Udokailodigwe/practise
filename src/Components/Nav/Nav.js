@@ -2,6 +2,10 @@ import React from 'react';
 
 import './Nav.css';
 
+
+/**
+ * @component Nav,
+ */
 function Nav() {
     return (
         <div className="nav">
